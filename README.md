@@ -22,3 +22,5 @@ i had made a GradualText() function for the story progress and character lines. 
 differentiate the speeds of combat text and story text. it helped speed up process to fights instead of waiting for the 
 text to load every single rerun.)
 
+https://youtu.be/qF38KSfnhf8 url for the youtube Video*****
+
